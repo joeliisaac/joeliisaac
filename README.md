@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joel
-- 👀 I’m interested in cybersecurity technologies and cloud security engineering
-- 🌱 I’m currently learning Terraform and avdanced AWS functionality
+- 👀 I’m interested in DevOps and networking
+- 🌱 I am efficient in Terraform, python programming and scripting, avdanced AWS functionality, and fundamentals of networking 
 
 
 <!---
